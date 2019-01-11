@@ -1,1 +1,1 @@
-# vsm
+# Visual Schedule Maker
