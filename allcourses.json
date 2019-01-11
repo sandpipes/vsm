@@ -6920,11 +6920,11 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247410VAx237955&cno=247-410-VA &cti=Telecommunications",
             "More Info": "",
             "Day": [
-                "Mon",
+                "Tue",
                 "Wed"
             ],
             "Time": [
-                "16:00-18:00",
+                "10:00-12:00",
                 "13:30-16:30"
             ]
         },
@@ -6934,11 +6934,11 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247410VAx237955&cno=247-410-VA &cti=Telecommunications",
             "More Info": "",
             "Day": [
-                "Mon",
+                "Tue",
                 "Tue"
             ],
             "Time": [
-                "16:00-18:00",
+                "10:00-12:00",
                 "13:00-16:00"
             ]
         }
@@ -20307,7 +20307,7 @@
         "00001": {
             "Title": "French Communication 1",
             "Teacher": "Giroux, Stephane",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602401VAx237710&cno=602-401-VA &cti=French Communication 1",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -20821,20 +20821,6 @@
                 ""
             ],
             "Time": []
-        }
-    },
-    "602-HTD-VA": {
-        "00001": {
-            "Title": "Relation d'aide",
-            "Teacher": "Toumaki, Fadia",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HTDVAg1822&cno=602-HTD-VA &cti=Relation d'aide",
-            "More Info": "",
-            "Day": [
-                "Wed"
-            ],
-            "Time": [
-                "9:00-12:00"
-            ]
         }
     },
     "603-001-50": {
@@ -22003,9 +21989,9 @@
     },
     "603-HSB-VA": {
         "00001": {
-            "Title": "Writing for the Community",
+            "Title": "Mind, Body, & Soul: Caregiving & Mental & Emotional Health",
             "Teacher": "Wong, Alan David",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSBVAg2187&cno=603-HSB-VA &cti=Writing for the Community",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSBVAx209269&cno=603-HSB-VA &cti=Mind, Body, & Soul: Caregiving & Mental & Emotional Health",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -22317,7 +22303,7 @@
         "00013": {
             "Title": "The Art of Argument",
             "Teacher": "Bushell, Kevin",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSEVAx209272&cno=603-HSE-VA &cti=The Art of Argument",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSEVAg2343&cno=603-HSE-VA &cti=The Art of Argument",
             "More Info": "",
             "Day": [
                 "Tue",
