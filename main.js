@@ -146,7 +146,7 @@ function add(){
             id: courseID,
             section: section,
             other: courseDict[courseID][section]["Teacher"],
-            comment: "<a href=\"" + c + "\" TARGET=\"_blan\">More Info</A>",
+            comment: c != "" ? "<a href=\"" + c + "\" TARGET=\"_blan\">More Info</A>" : "",
             color: "#efefef",
             times: t
         });
