@@ -1,0 +1,40 @@
+table {
+  table-layout: fixed;
+}
+
+tr.hour td {
+  border-top: none !important;
+  border-bottom: none !important;
+  padding: 0 !important;
+}
+
+tr.hour td.hour-name {
+  vertical-align: middle;
+  text-align: center;
+}
+
+tr.hour td div:nth-child(n+1) {
+  border-bottom: 1px solid #ddd;
+}
+
+tr.hour td div:nth-child(n+2) {
+  border-bottom: 1px solid #eee;
+}
+
+.event{
+  border: 1px;
+  border-color: #d0d0d0;
+  border-style: dashed;
+  text-align: center;
+  position:   absolute;
+  overflow:   auto;
+}
+
+.event .event-name {
+  font-weight: bold;
+}
+
+.event .event-comment {
+  font-style: italic;
+  font-size:  0.8em;
+}
