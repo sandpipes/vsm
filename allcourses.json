@@ -5307,9 +5307,9 @@
             ]
         },
         "00008": {
-            "Title": "urs Only - Waves, Optics and Modern Physics",
+            "Title": "Honours Only - Waves, Optics and Modern Physics",
             "Teacher": "Cohen, Stephen",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYC05x103642&cno=203-NYC-05 &cti=urs Only - Waves, Optics and Modern Physics",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYC05x103642&cno=203-NYC-05 &cti=Honours Only - Waves, Optics and Modern Physics",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -7136,7 +7136,7 @@
         },
         "00009": {
             "Title": "Research Methods",
-            "Teacher": "Larocque, Lyne Marie",
+            "Teacher": "Fletcher, Jennifer",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300300VAx117467&cno=300-300-VA &cti=Research Methods",
             "More Info": "",
             "Day": [
@@ -7164,7 +7164,7 @@
         },
         "00011": {
             "Title": "Research Methods",
-            "Teacher": "Lipscombe, Carla",
+            "Teacher": "Larocque, Lyne Marie",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300300VAx117467&cno=300-300-VA &cti=Research Methods",
             "More Info": "",
             "Day": [
@@ -7193,9 +7193,9 @@
             ]
         },
         "00002": {
-            "Title": "Relationships",
-            "Teacher": "Lummack, Marta",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAg604&cno=300-301-VA &cti=Relationships",
+            "Title": "Drugs and Addiction",
+            "Teacher": "Casey, Kevin F.",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAg582&cno=300-301-VA &cti=Drugs and Addiction",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -8900,15 +8900,13 @@
     "340-914-VA": {
         "00001": {
             "Title": "Modern Philosophy - Liberal Arts ONLY",
-            "Teacher": "Block, Stephen C. & Koloszyc, David",
+            "Teacher": "Koloszyc, David",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=340914VAx225839&cno=340-914-VA &cti=Modern Philosophy - Liberal Arts ONLY",
             "More Info": "",
             "Day": [
-                "Mon",
                 "Mon"
             ],
             "Time": [
-                "13:00-16:00",
                 "13:00-16:00"
             ]
         }
@@ -10140,7 +10138,7 @@
         },
         "00010": {
             "Title": "Introduction to Psychology",
-            "Teacher": "Lipscombe, Carla",
+            "Teacher": "Casey, Kevin F.",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350102VAx123818&cno=350-102-VA &cti=Introduction to Psychology",
             "More Info": "",
             "Day": [
@@ -10198,7 +10196,7 @@
     "350-200-VA": {
         "00001": {
             "Title": "Developmental Psychology",
-            "Teacher": "Lambrou, Venetia",
+            "Teacher": "Lummack, Marta",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350200VAx123956&cno=350-200-VA &cti=Developmental Psychology",
             "More Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=350200VA1",
             "Day": [
@@ -10854,7 +10852,7 @@
         },
         "00010": {
             "Title": "Introduction to Psychology",
-            "Teacher": "Lipscombe, Carla",
+            "Teacher": "Casey, Kevin F.",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350HSA03x124906&cno=350-HSA-03 &cti=Introduction to Psychology",
             "More Info": "",
             "Day": [
@@ -11072,7 +11070,7 @@
     "350-HTG-03": {
         "00001": {
             "Title": "Developmental Psychology",
-            "Teacher": "Lambrou, Venetia",
+            "Teacher": "Lummack, Marta",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350HTG03x124915&cno=350-HTG-03 &cti=Developmental Psychology",
             "More Info": "",
             "Day": [
@@ -11842,7 +11840,7 @@
         },
         "00005": {
             "Title": "Quantitative Methods",
-            "Teacher": "Lipscombe, Carla",
+            "Teacher": "Casey, Kevin F.",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=360300VAx126739&cno=360-300-VA &cti=Quantitative Methods",
             "More Info": "",
             "Day": [
@@ -20772,20 +20770,6 @@
         }
     },
     "602-HSX-VA": {
-        "00001": {
-            "Title": "Une plan\u00e8te en danger: le d\u00e9veloppement durable \u00e0 la rescousse",
-            "Teacher": "Giroux, Stephane & Rivest, Isabelle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSXVAg1836&cno=602-HSX-VA &cti=Une plan\u00e8te en danger: le d\u00e9veloppement durable \u00e0 la rescousse",
-            "More Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=602HSXVA1",
-            "Day": [
-                "Fri",
-                "Fri"
-            ],
-            "Time": [
-                "13:00-16:00",
-                "13:00-16:00"
-            ]
-        },
         "00002": {
             "Title": "May Intersession:  Mouvements pour la justice sociale",
             "Teacher": "Gauthier, Melanie",
@@ -20798,20 +20782,6 @@
         }
     },
     "602-HSY-VA": {
-        "00001": {
-            "Title": "Une plan\u00e8te en danger: le d\u00e9veloppement durable \u00e0 la rescousse",
-            "Teacher": "Giroux, Stephane & Rivest, Isabelle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSYVAg1836&cno=602-HSY-VA &cti=Une plan\u00e8te en danger: le d\u00e9veloppement durable \u00e0 la rescousse",
-            "More Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=602HSYVA1",
-            "Day": [
-                "Fri",
-                "Fri"
-            ],
-            "Time": [
-                "13:00-16:00",
-                "13:00-16:00"
-            ]
-        },
         "00002": {
             "Title": "May Intersession:  \u00c0 contre-courant de l'anticonformisme",
             "Teacher": "Der Aprahamian, Isabelle",
