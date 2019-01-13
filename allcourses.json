@@ -5401,6 +5401,22 @@
                 "13:30-15:30",
                 "16:00-17:30"
             ]
+        },
+        "00014": {
+            "Title": "Waves, Optics and Modern Physics",
+            "Teacher": "TBA 203, Teacher 1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYC05x103642&cno=203-NYC-05 &cti=Waves, Optics and Modern Physics",
+            "More Info": "",
+            "Day": [
+                "Tue",
+                "Wed",
+                "Thu"
+            ],
+            "Time": [
+                "16:00-17:30",
+                "15:30-17:30",
+                "16:00-17:30"
+            ]
         }
     },
     "221-210-VA": {
@@ -18967,7 +18983,7 @@
                 "Tue"
             ],
             "Time": [
-                "11:30-12:30"
+                "9:30-10:30"
             ]
         }
     },
@@ -19105,7 +19121,7 @@
                 "Tue"
             ],
             "Time": [
-                "9:30-10:30"
+                "11:30-12:30"
             ]
         },
         "00008": {
