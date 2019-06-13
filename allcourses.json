@@ -4000,12 +4000,12 @@
             "Day": [
                 "Mon",
                 "Wed",
-                "Fri"
+                "Thu"
             ],
             "Time": [
                 "10:00-11:30",
                 "11:00-12:30",
-                "10:00-12:00"
+                "16:00-18:00"
             ]
         },
         "00002": {
@@ -9958,7 +9958,7 @@
             "Title": "Writing on the Wall",
             "Teacher": "Ghaly, Salwa William Shafik",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg1047&cno=345-101-MQ &cti=Writing on the Wall",
-            "More Info": "",
+            "More Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=345101MQ13",
             "Day": [
                 "Tue",
                 "Fri"
@@ -9972,7 +9972,7 @@
             "Title": "Writing on the Wall",
             "Teacher": "Ghaly, Salwa William Shafik",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg1047&cno=345-101-MQ &cti=Writing on the Wall",
-            "More Info": "",
+            "More Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=345101MQ14",
             "Day": [
                 "Mon",
                 "Thu"
@@ -14453,6 +14453,20 @@
                 "8:00-9:30",
                 "10:00-11:30"
             ]
+        },
+        "00002": {
+            "Title": "International Relations I",
+            "Teacher": "Paradis, M\u00e9lissa",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=385203VAx128822&cno=385-203-VA &cti=International Relations I",
+            "More Info": "",
+            "Day": [
+                "Wed",
+                "Fri"
+            ],
+            "Time": [
+                "8:00-9:30",
+                "10:00-11:30"
+            ]
         }
     },
     "385-HSF-VA": {
@@ -14559,6 +14573,20 @@
         "00001": {
             "Title": "International Relations 1",
             "Teacher": "Karaboghossian, Ara",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=385HTC03x129071&cno=385-HTC-03 &cti=International Relations 1",
+            "More Info": "",
+            "Day": [
+                "Wed",
+                "Fri"
+            ],
+            "Time": [
+                "8:00-9:30",
+                "10:00-11:30"
+            ]
+        },
+        "00002": {
+            "Title": "International Relations 1",
+            "Teacher": "Paradis, M\u00e9lissa",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=385HTC03x129071&cno=385-HTC-03 &cti=International Relations 1",
             "More Info": "",
             "Day": [
@@ -19113,7 +19141,7 @@
         "00001": {
             "Title": "Animation",
             "Teacher": "Donison, Cheryl",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=530103VAx230657&cno=530-103-VA &cti=Animation",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -19401,7 +19429,7 @@
         "00001": {
             "Title": "Animation",
             "Teacher": "Donison, Cheryl",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=530HTDVAx231598&cno=530-HTD-VA &cti=Animation",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21611,9 +21639,9 @@
             ]
         },
         "00006": {
-            "Title": "\u00c0 mots d\u00e9couverte",
+            "Title": "\u00c0 mots d\u00e9couverts",
             "Teacher": "Niculae, Laura Ionela",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602101MQg2426&cno=602-101-MQ &cti=\u00c0 mots d\u00e9couverte",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602101MQg2426&cno=602-101-MQ &cti=\u00c0 mots d\u00e9couverts",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -22141,9 +22169,9 @@
     },
     "602-HSK-VA": {
         "00001": {
-            "Title": "Sommes-nous sous influence?",
+            "Title": "De d\u00e9couverte en d\u00e9couverte",
             "Teacher": "Niculae, Laura Ionela",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSKVAg1830&cno=602-HSK-VA &cti=Sommes-nous sous influence?",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSKVAg2325&cno=602-HSK-VA &cti=De d\u00e9couverte en d\u00e9couverte",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -23707,7 +23735,7 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Wed"
+                "Thu"
             ],
             "Time": [
                 "16:00-18:00",
