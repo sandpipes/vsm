@@ -5645,9 +5645,9 @@
             ]
         },
         "00023": {
-            "Title": "Mechanics - Honours ONLY",
+            "Title": "Mechanics",
             "Teacher": "Cohen, Stephen",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics - Honours ONLY",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -5661,9 +5661,9 @@
             ]
         },
         "00024": {
-            "Title": "Mechanics - Honours ONLY",
+            "Title": "Mechanics",
             "Teacher": "Cohen, Stephen",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics - Honours ONLY",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -5709,9 +5709,9 @@
             ]
         },
         "00027": {
-            "Title": "Mechanics",
+            "Title": "Mechanics - Honours ONLY",
             "Teacher": "Park, Nicholas",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics - Honours ONLY",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -5725,9 +5725,9 @@
             ]
         },
         "00028": {
-            "Title": "Mechanics",
+            "Title": "Mechanics - Honours ONLY",
             "Teacher": "Park, Nicholas",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05 &cti=Mechanics - Honours ONLY",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -6059,7 +6059,7 @@
                 "Fri"
             ],
             "Time": [
-                "8:00-12:00"
+                "9:00-12:00"
             ]
         },
         "00002": {
@@ -6071,7 +6071,7 @@
                 "Wed"
             ],
             "Time": [
-                "8:30-12:30"
+                "9:30-12:30"
             ]
         },
         "00003": {
@@ -6083,7 +6083,7 @@
                 "Mon"
             ],
             "Time": [
-                "8:00-12:00"
+                "9:00-12:00"
             ]
         }
     },
@@ -10967,9 +10967,9 @@
     },
     "345-HSD-VA": {
         "00001": {
-            "Title": "Sexual Polititics",
+            "Title": "Sexual Politics",
             "Teacher": "D'Andrea, David",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSDVAg962&cno=345-HSD-VA &cti=Sexual Politics",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -24275,7 +24275,7 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Wed"
+                "Thu"
             ],
             "Time": [
                 "16:00-18:00",
