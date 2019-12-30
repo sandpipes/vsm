@@ -7,7 +7,7 @@ String.prototype.repeat = function(times) {
 };
 
 $( document ).ready(function() {
-    $.getJSON('https://vc.calibur.dev/vsm/allcourses.json', function(data) {
+    $.getJSON('allcourses.json', function(data) {
         courseDict = data;
     });
     
