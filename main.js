@@ -7,6 +7,7 @@ String.prototype.repeat = function(times) {
 };
 
 $( document ).ready(function() {
+    $.ajaxSetup({ cache: false });
     $.getJSON('allcourses.json', function(data) {
         courseDict = data;
     });
@@ -266,4 +267,10 @@ function reset(){
         events: []
     });
     updateURL();
+}
+
+function loading() {
+    // <div class="lds-grid"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+
+
 }
