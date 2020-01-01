@@ -681,9 +681,9 @@
             ]
         },
         "00005": {
-            "Title": "Fitness Land & Water",
+            "Title": "Fitness/Team Sports:  Land & Water",
             "Teacher": "Viray, Rubynell Gavini",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQg2316&cno=109-101-MQ&cti=FitnessLand&Water",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQx207332&cno=109-101-MQ&cti=Fitness/TeamSports:Land&Water",
             "More Info": "",
             "Day": [
                 "Mon"
@@ -693,9 +693,9 @@
             ]
         },
         "00006": {
-            "Title": "Fitness Land & Water",
+            "Title": "Fitness/Team Sports:  Land & Water",
             "Teacher": "Dugrenier, Martine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQg2316&cno=109-101-MQ&cti=FitnessLand&Water",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQx207332&cno=109-101-MQ&cti=Fitness/TeamSports:Land&Water",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2411,11 +2411,11 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Wed"
+                "Tue"
             ],
             "Time": [
                 "12:00-14:00",
-                "8:00-10:00"
+                "14:00-16:00"
             ]
         },
         "00002": {
@@ -2425,11 +2425,11 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Wed"
+                "Tue"
             ],
             "Time": [
                 "14:00-16:00",
-                "8:00-10:00"
+                "14:00-16:00"
             ]
         },
         "00003": {
@@ -7464,12 +7464,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=320100VAx120320&cno=320-100-VA&cti=World:LandandPeople",
             "More Info": "",
             "Day": [
-                "Mon",
-                "Wed"
+                "Tue",
+                "Fri"
             ],
             "Time": [
-                "10:00-11:30",
-                "10:30-12:00"
+                "8:30-10:00",
+                "8:30-10:00"
             ]
         }
     },
@@ -7566,12 +7566,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=320HSA03x120743&cno=320-HSA-03&cti=World:LandandPeople",
             "More Info": "",
             "Day": [
-                "Mon",
-                "Wed"
+                "Tue",
+                "Fri"
             ],
             "Time": [
-                "10:00-11:30",
-                "10:30-12:00"
+                "8:30-10:00",
+                "8:30-10:00"
             ]
         }
     },
@@ -16408,19 +16408,9 @@
             "Day": [
                 "Mon",
                 "Tue",
-                "Wed",
-                "Wed",
-                "Wed",
-                "Wed",
-                "Wed",
                 "Wed"
             ],
             "Time": [
-                "8:00-18:00",
-                "8:00-18:00",
-                "8:00-18:00",
-                "8:00-18:00",
-                "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00"
@@ -16542,11 +16532,11 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420HTM03x149101&cno=420-HTM-03&cti=HTMLandInternetProgramming",
             "More Info": "",
             "Day": [
-                "Wed",
+                "Tue",
                 "Thu"
             ],
             "Time": [
-                "8:00-10:00",
+                "14:00-16:00",
                 "12:00-13:00"
             ]
         },
