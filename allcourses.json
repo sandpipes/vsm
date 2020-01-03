@@ -10518,7 +10518,7 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350400VAx124259&cno=350-400-VA&cti=IssuesinContemporaryPsychology",
             "More Info": "",
             "Day": [
-                "Tue"
+                "Fri"
             ],
             "Time": [
                 "8:30-11:30"
@@ -11422,10 +11422,14 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=351492VAx125621&cno=351-492-VA&cti=StageII",
             "More Info": "",
             "Day": [
-                "Mon"
+                "Mon",
+                "Thu",
+                "Fri"
             ],
             "Time": [
-                "12:00-14:00"
+                "12:00-14:00",
+                "8:00-18:00",
+                "8:00-18:00"
             ]
         }
     },
@@ -15868,12 +15872,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420202REx201469&cno=420-202-RE&cti=DataStructuresandObjectorientedProgramming",
             "More Info": "",
             "Day": [
-                "Wed",
+                "Mon",
                 "Thu",
                 "Fri"
             ],
             "Time": [
-                "13:30-15:00",
+                "10:00-11:30",
                 "16:00-18:00",
                 "14:30-16:00"
             ]
@@ -16404,15 +16408,21 @@
     "420-640-VA": {
         "00001": {
             "Title": "Stage",
-            "Teacher": "TBA 420, Teacher 2",
+            "Teacher": "TBA 420, Teacher 1",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420640VAx146419&cno=420-640-VA&cti=Stage",
             "More Info": "",
             "Day": [
                 "Mon",
                 "Tue",
+                "Wed",
+                "Wed",
+                "Wed",
                 "Wed"
             ],
             "Time": [
+                "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00"
@@ -20793,11 +20803,11 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Thu"
+                "Wed"
             ],
             "Time": [
-                "8:00-10:00",
-                "8:00-10:00"
+                "16:00-18:00",
+                "15:30-17:30"
             ]
         },
         "00036": {
