@@ -80,5 +80,5 @@ for i in links:
 
 driver.close()
 
-with open('test.json', 'w') as fp:
+with open('allcourses.json', 'w') as fp:
     fp.write(json.dumps(allcourses, indent=4))
