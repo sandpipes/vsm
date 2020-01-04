@@ -165,7 +165,7 @@ function refresh(real = true){
     timetable = new Timetable( '#timetable', {
         timelapse:  {
           start:  08,
-          end:    20
+          end:    19
         },
         events: courses
     });
@@ -262,7 +262,7 @@ function reset(){
     timetable = new Timetable( '#timetable', {
         timelapse:  {
           start:  08,
-          end:    20
+          end:    19
         },
         events: []
     });

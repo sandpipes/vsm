@@ -8,7 +8,6 @@
         <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="./assets/css/timetable.css">
         <link rel="stylesheet" href="./assets/css/style.css">
-        <link rel="stylesheet" href="./assets/css/other.css">
 
         <script src="https://code.jquery.com/jquery-1.11.2.min.js" integrity="sha256-Ls0pXSlb7AYs7evhd+VLnWsZ/AqEHcXBeMZUycz/CcA=" crossorigin="anonymous"></script>
         <script src="./assets/js/bootstrap.min.js"></script>
@@ -21,9 +20,12 @@
 
     <body>
         <div class="container">
-        <div class='row'>
+        <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <h1>Vanier Schedule Maker</h1>
+                <div class="headers">
+                    <h1>Vanier Schedule Maker</h1></br>
+                    <h4>Because omnivox doesn't let you.</h4>
+                </div>
 
                 <div id="input">
                     <input type="text" placeholder="Course Code" id="coursecode">
@@ -32,7 +34,7 @@
                 </div>
 
                 <div id="timetable"></div>
-                <button type="button" onclick="reset();">Reset</button><p id="info"></p></br>
+                <button type="button" onclick="reset();" class="reset">Reset</button><p id="info"></p></br>
                 <ul id="deletelist"></ul>
             </div>
         </div>
