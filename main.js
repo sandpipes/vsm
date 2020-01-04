@@ -2,6 +2,8 @@ var courses = [];
 var courseDict = NaN;
 var emptyCourses = [];
 
+// crappy code written a while ago
+
 String.prototype.repeat = function(times) {
     return (new Array(times + 1)).join(this);
 };
@@ -10,22 +12,47 @@ $( document ).ready(function() {
     $.ajaxSetup({ cache: false });
     $.getJSON('allcourses.json', function(data) {
         courseDict = data;
+
+        let oneFail = false;
+        
+        try{
+            let u = window.location.href;
+            let url = new URL(u);
+            let c = url.searchParams.get("c");
+            let e = url.searchParams.get("e");
+
+            if(c == null) {
+                let urlCourses = url.searchParams.get("courses");
+                let urlEmptyCourses = url.searchParams.get("emptycourses");
+                let cDict = null;
+                let ecDict = null;
+
+                if(urlCourses != null) {
+                    cDict = JSON.parse(decodeURIComponent(urlCourses));
+                    Object.keys(cDict).forEach(function(key) {
+                        if(!add(key, cDict[key]) && !oneFail) oneFail = true;
+                    });
+                }
+                if(urlEmptyCourses != null) {
+                    ecDict = JSON.parse(decodeURIComponent(urlEmptyCourses));
+                    Object.keys(ecDict).forEach(function(key) {
+                        if(!add(key, ecDict[key]) && !oneFail) oneFail = true;
+                    });
+                }
+            } else {
+                //accounting for old way of saving
+                if(c != null) courses = JSON.parse(decodeURIComponent(c));
+                if(e != null) emptyCourses = JSON.parse(decodeURIComponent(e));
+            }
+        }catch(err){
+            courses = [];
+            emptyCourses = [];
+        }
+
+        if(oneFail) document.getElementById("errormsg").innerHTML = "Course(s) were removed due to conflict with old data.";
+
+        refresh();
     });
-    
-    try{
-        let u = window.location.href;
-        let url = new URL(u);
-        let c = url.searchParams.get("c");
-        let e = url.searchParams.get("e");
-
-        if(c != null) courses = JSON.parse(decodeURIComponent(c));
-        if(e != null) emptyCourses = JSON.parse(decodeURIComponent(e));
-    }catch(err){
-        courses = [];
-        emptyCourses = [];
-    }
-
-    refresh();
 });
 
 function toMinutes(a){
@@ -35,9 +62,28 @@ function toMinutes(a){
 function updateURL(){
     let main = location.protocol + '//' + location.host + location.pathname;
     let url = main;
+    /*
+    //old dumb way of saving courses
     if(courses.length > 0 || emptyCourses.length > 0) url += "?";
     if(courses.length > 0) url += "c=" + encodeURIComponent(JSON.stringify(courses)) + "&";
     if(emptyCourses.length > 0) url += "e=" + encodeURIComponent(JSON.stringify(emptyCourses));
+    */
+
+    var cDict = {}
+    var ecDict = {}
+
+    Object.keys(courses).forEach(function(key) {
+        cDict[courses[key]["id"]] = courses[key]["section"];
+    });
+
+    Object.keys(emptyCourses).forEach(function(key) {
+        ecDict[emptyCourses[key]["id"]] = emptyCourses[key]["section"];
+    });
+
+    if(courses.length > 0 || emptyCourses.length > 0) url += "?";
+    if(courses.length > 0 || emptyCourses.length > 0) url += "courses=" + encodeURIComponent(JSON.stringify(cDict)) + "&";
+    if(emptyCourses.length > 0) url += "emptycourses=" + encodeURIComponent(JSON.stringify(ecDict));
+
     history.pushState(null, '', url);
 }
 
@@ -68,31 +114,50 @@ function checkOverlap(t, name){
     return false;
 }
 
-function add(){
-    var courseID = document.getElementById("coursecode").value.trim().toUpperCase();
-    var section = document.getElementById("section").value.trim();
+//var lastC = null;
+
+function add(cID = null, sec = null){
+    var courseID = cID;
+    var section = sec;
+    if(cID == null && sec == null) {
+        courseID = document.getElementById("coursecode").value.trim().toUpperCase();
+        section = document.getElementById("section").value.trim();
+    }
     section = "0".repeat(5-section.length) + section;
+
+    //console.log(courseID + " : " + section);
+    //lastC = courseID;
+
+    if(courseDict == null) {
+        document.getElementById("errormsg").innerHTML = "Courses dictionary not loaded?";
+        //console.log("inv course dict");
+        return false;
+    }
 
     if(courseDict[courseID] == null){
         document.getElementById("errormsg").innerHTML = "Invalid Course Code.";
-        return;
+        //console.log("inv code");
+        return false;
     }
 
     if(courseDict[courseID][section] == null){
         document.getElementById("errormsg").innerHTML = "Invalid Section ID.";
-        return;
+        //console.log("invalid id");
+        return false;
     }
 
     for(let i = 0; i<courses.length; i++){
         if(courses[i]["id"] == courseID && courses[i]["section"] == section){
             document.getElementById("errormsg").innerHTML = "Course has already been added.";
-            return;
+            //console.log("already added");
+            return false;
         }
     }
     for(let i = 0; i<emptyCourses.length; i++){
         if(emptyCourses[i]["CourseID"] == courseID && emptyCourses[i]["Section"] == section){
             document.getElementById("errormsg").innerHTML = "Course has already been added.";
-            return;
+            //console.log("already added");
+            return false;
         }
     }
 
@@ -139,7 +204,7 @@ function add(){
         isEmpty = true;
     }
 
-    if(checkOverlap(t, courseDict[courseID][section]["Title"])) return;
+    if(checkOverlap(t, courseDict[courseID][section]["Title"])) return false;
 
     if(!isEmpty){
         courses.push({
@@ -158,6 +223,7 @@ function add(){
     document.getElementById("errormsg").innerHTML = "";
     document.getElementById("section").value = "";
     document.getElementById("coursecode").value = "";
+    return true;
 }
 
 function refresh(real = true){
@@ -267,10 +333,4 @@ function reset(){
         events: []
     });
     updateURL();
-}
-
-function loading() {
-    // <div class="lds-grid"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
-
-
 }

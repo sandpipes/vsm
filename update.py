@@ -3,6 +3,12 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import json
 
+'''
+script for manual updates
+
+too lazy for automatic updates
+'''
+
 def retrieveString(array):
     out = []
     for i in array:
