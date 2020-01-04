@@ -1,1 +1,1 @@
-# Visual Schedule Maker
+# Vanier Schedule Maker
