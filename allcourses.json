@@ -3898,14 +3898,14 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202001REx246967&cno=202-001-RE&cti=RemedialActivitiesforSecondaryVChemistry",
             "More Info": "",
             "Day": [
-                "Mon",
+                "Tue",
                 "Thu",
-                "Thu"
+                "Fri"
             ],
             "Time": [
                 "13:00-14:30",
                 "8:00-10:00",
-                "13:00-14:30"
+                "11:30-13:00"
             ]
         },
         "00004": {
@@ -3914,14 +3914,14 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202001REx246967&cno=202-001-RE&cti=RemedialActivitiesforSecondaryVChemistry",
             "More Info": "",
             "Day": [
-                "Mon",
+                "Tue",
                 "Thu",
-                "Thu"
+                "Fri"
             ],
             "Time": [
                 "13:00-14:30",
                 "10:00-12:00",
-                "13:00-14:30"
+                "11:30-13:00"
             ]
         }
     },
@@ -4359,7 +4359,7 @@
             "Time": [
                 "11:30-13:00",
                 "14:00-16:00",
-                "10:00-11:30"
+                "11:30-13:00"
             ]
         },
         "00004": {
@@ -4375,7 +4375,7 @@
             "Time": [
                 "11:30-13:00",
                 "16:00-18:00",
-                "10:00-11:30"
+                "11:30-13:00"
             ]
         },
         "00005": {
@@ -4910,6 +4910,22 @@
                 "14:00-16:00",
                 "13:30-15:30",
                 "12:00-14:00"
+            ]
+        },
+        "00008": {
+            "Title": "Mechanics",
+            "Teacher": "Batista, Santiago Juan",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=203NYA05x103635&cno=203-NYA-05&cti=Mechanics",
+            "More Info": "",
+            "Day": [
+                "Mon",
+                "Wed",
+                "Thu"
+            ],
+            "Time": [
+                "16:00-18:00",
+                "15:30-17:30",
+                "16:00-18:00"
             ]
         }
     },
@@ -6510,17 +6526,17 @@
     "243-602-VA": {
         "00001": {
             "Title": "Systems Start-up",
-            "Teacher": "Insleay, Allan",
+            "Teacher": "Ahmed, Ali",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243602VAx237938&cno=243-602-VA&cti=SystemsStart-up",
             "More Info": "",
             "Day": [
-                "Tue",
+                "Wed",
                 "Thu",
                 "Thu",
                 "Thu"
             ],
             "Time": [
-                "10:00-11:30",
+                "13:30-15:00",
                 "8:00-14:00",
                 "8:00-14:00",
                 "8:00-14:00"
@@ -7077,9 +7093,9 @@
             ]
         },
         "00002": {
-            "Title": "Social Inequalities",
+            "Title": "Ethnicity",
             "Teacher": "Casseus, Joel",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAx117483&cno=300-301-VA&cti=SocialInequalities",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAg584&cno=300-301-VA&cti=Ethnicity",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -11938,9 +11954,11 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=365HSAVAx218617&cno=365-HSA-VA&cti=TheTropics",
             "More Info": "",
             "Day": [
+                "Fri",
                 "Fri"
             ],
             "Time": [
+                "13:00-16:00",
                 "13:00-16:00"
             ]
         }
@@ -16860,12 +16878,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=502132VAx230021&cno=502-132-VA&cti=CulturalCurrentsPartII",
             "More Info": "",
             "Day": [
-                "Tue",
-                "Thu"
+                "Mon",
+                "Wed"
             ],
             "Time": [
-                "16:00-18:00",
-                "16:00-18:00"
+                "10:00-12:00",
+                "10:00-12:00"
             ]
         }
     },
@@ -18660,14 +18678,14 @@
         },
         "00009": {
             "Title": "Second Instrument Jazz Piano VI",
-            "Teacher": "Linsley, Chad Lamplugh",
+            "Teacher": "Harding, Eric Jackson",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=551SC6VAx236415&cno=551-SC6-NP&cti=SecondInstrumentJazzPianoVI",
             "More Info": "",
             "Day": [
                 "Wed"
             ],
             "Time": [
-                "14:30-15:30"
+                "9:00-10:00"
             ]
         },
         "00010": {
@@ -20150,10 +20168,10 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602103MQg2424&cno=602-103-MQ&cti=L'auteuretsonchef-d'oeuvre",
             "More Info": "",
             "Day": [
-                "Fri"
+                "Tue"
             ],
             "Time": [
-                "8:30-11:30"
+                "10:00-13:00"
             ]
         },
         "00005": {
