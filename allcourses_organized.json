@@ -2618,7 +2618,7 @@
                 "Fri"
             ],
             "Time": [
-                "13:30-15:00",
+                "14:00-15:30",
                 "11:30-13:00"
             ]
         },
@@ -4310,6 +4310,38 @@
                 "13:00-14:30",
                 "13:00-14:30",
                 "10:00-12:00"
+            ]
+        },
+        "00008": {
+            "Title": "General Chemistry",
+            "Teacher": "TBA 202, Teacher 1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202NYA05x102724&cno=202-NYA-05&cti=GeneralChemistry",
+            "More Info": "",
+            "Day": [
+                "Mon",
+                "Tue",
+                "Thu"
+            ],
+            "Time": [
+                "14:00-16:00",
+                "14:30-16:00",
+                "10:00-11:30"
+            ]
+        },
+        "00009": {
+            "Title": "General Chemistry",
+            "Teacher": "TBA 202, Teacher 1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202NYA05x102724&cno=202-NYA-05&cti=GeneralChemistry",
+            "More Info": "",
+            "Day": [
+                "Mon",
+                "Tue",
+                "Thu"
+            ],
+            "Time": [
+                "16:00-18:00",
+                "14:30-16:00",
+                "10:00-11:30"
             ]
         }
     },
@@ -6739,7 +6771,7 @@
             ],
             "Time": [
                 "10:00-12:00",
-                "10:00-13:00"
+                "11:30-14:30"
             ]
         },
         "00002": {
@@ -9566,7 +9598,7 @@
         },
         "00005": {
             "Title": "Ethics and Reproduction",
-            "Teacher": "Hadzipetros, Marika Ilyana",
+            "Teacher": "Rose, Katherine",
             "Course Info": "",
             "More Info": "",
             "Day": [
@@ -10520,10 +10552,10 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350307VAx124185&cno=350-307-VA&cti=CommunicationandRelationships",
             "More Info": "",
             "Day": [
-                "Fri"
+                "Thu"
             ],
             "Time": [
-                "8:30-11:30"
+                "13:00-16:00"
             ]
         }
     },
@@ -10606,10 +10638,10 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350905VAx124475&cno=350-905-VA&cti=CommunicationandRelationships",
             "More Info": "",
             "Day": [
-                "Fri"
+                "Thu"
             ],
             "Time": [
-                "8:30-11:30"
+                "13:00-16:00"
             ]
         }
     },
@@ -13137,6 +13169,20 @@
                 "8:30-10:00",
                 "8:30-10:00"
             ]
+        },
+        "00004": {
+            "Title": "Politics of Quebec and Canada",
+            "Teacher": "Paradis, M\u00e9lissa",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=385201VAx128813&cno=385-201-VA&cti=PoliticsofQuebecandCanada",
+            "More Info": "",
+            "Day": [
+                "Mon",
+                "Thu"
+            ],
+            "Time": [
+                "11:30-13:00",
+                "10:00-11:30"
+            ]
         }
     },
     "385-HSF-VA": {
@@ -13224,6 +13270,20 @@
             "Time": [
                 "8:30-10:00",
                 "8:30-10:00"
+            ]
+        },
+        "00004": {
+            "Title": "Politics of Quebec and Canada",
+            "Teacher": "Paradis, M\u00e9lissa",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=385HTD03x129072&cno=385-HTD-03&cti=PoliticsofQuebecandCanada",
+            "More Info": "",
+            "Day": [
+                "Mon",
+                "Thu"
+            ],
+            "Time": [
+                "11:30-13:00",
+                "10:00-11:30"
             ]
         }
     },
@@ -15954,12 +16014,12 @@
             "Course Info": "",
             "More Info": "",
             "Day": [
-                "Thu",
-                "Fri"
+                "Tue",
+                "Thu"
             ],
             "Time": [
-                "10:00-12:00",
-                "13:00-16:00"
+                "8:30-11:30",
+                "10:00-12:00"
             ]
         },
         "00003": {
@@ -16374,7 +16434,7 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420534VAx146110&cno=420-534-VA&cti=AdvancedUnix",
             "More Info": "",
             "Day": [
-                "Tue"
+                "Fri"
             ],
             "Time": [
                 "8:30-11:30"
@@ -20360,9 +20420,11 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSCVAg1804&cno=602-HSC-VA&cti=Redessinerlesfronti\u00e8res",
             "More Info": "",
             "Day": [
+                "Fri",
                 "Fri"
             ],
             "Time": [
+                "11:30-14:30",
                 "11:30-14:30"
             ]
         }
@@ -20683,11 +20745,11 @@
             ]
         }
     },
-    "603-003-50": {
+    "603-003-VA": {
         "00001": {
-            "Title": "Preparation for College English",
+            "Title": "Preparation for College-Level English",
             "Teacher": "Spanos, Kalliopi Maria",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=60300350x204776&cno=603-003-50&cti=PreparationforCollegeEnglish",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603003VAx247243&cno=603-003-VA&cti=PreparationforCollege-LevelEnglish",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -21634,7 +21696,7 @@
         },
         "00013": {
             "Title": "Communal Identity in Literature",
-            "Teacher": "Katz, Jason Michael",
+            "Teacher": "Wong, Alan David",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg1890&cno=603-103-MQ&cti=CommunalIdentityinLiterature",
             "More Info": "",
             "Day": [
@@ -21878,7 +21940,7 @@
         },
         "00004": {
             "Title": "Taking the Red Pill",
-            "Teacher": "Reiser, Patra",
+            "Teacher": "Katz, Jason Michael",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSDVAg2102&cno=603-HSD-VA&cti=TakingtheRedPill",
             "More Info": "",
             "Day": [
@@ -22219,7 +22281,7 @@
         "00001": {
             "Title": "Liberal Arts ONLY: Reimagining the Canon",
             "Teacher": "Collin, Katherine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSFVAx209273&cno=603-HSF-VA&cti=LiberalArtsONLY:ReimaginingtheCanon",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSFVAg2472&cno=603-HSF-VA&cti=LiberalArtsONLY:ReimaginingtheCanon",
             "More Info": "",
             "Day": [
                 "Tue",
