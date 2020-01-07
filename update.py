@@ -23,8 +23,6 @@ driver.get(baseURL)
 
 assert "Vanier" in driver.title
 
-tbodies = driver.find_elements(By.XPATH, "//td[@valign='TOP']")
-
 b = BeautifulSoup(driver.page_source, "html.parser")
 
 links = []
@@ -87,4 +85,7 @@ for i in links:
 driver.close()
 
 with open('allcourses.json', 'w') as fp:
+    fp.write(json.dumps(allcourses))
+
+with open('allcourses_organized.json', 'w') as fp:
     fp.write(json.dumps(allcourses, indent=4))
