@@ -385,7 +385,7 @@
             "Time": [
                 "16:00-17:30",
                 "8:30-11:30",
-                "13:00-14:30"
+                "11:30-13:00"
             ]
         }
     },
@@ -2815,7 +2815,7 @@
             "Time": [
                 "8:00-10:00",
                 "13:00-15:30",
-                "13:00-15:00"
+                "15:00-17:00"
             ]
         },
         "00002": {
@@ -2826,45 +2826,57 @@
             "Day": [
                 "Mon",
                 "Mon",
-                "Wed"
+                "Thu"
             ],
             "Time": [
                 "10:00-12:00",
                 "13:00-15:30",
-                "13:00-15:00"
+                "15:00-17:00"
             ]
         }
     },
     "145-6EX-VA": {
         "00001": {
             "Title": "Exotic Animal Care",
-            "Teacher": "Deschamps, Annie",
+            "Teacher": "Laett, Stephanie",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=1456EXVAx94187&cno=145-6EX-VA&cti=ExoticAnimalCare",
             "More Info": "",
             "Day": [
-                "Thu",
+                "Wed",
+                "Wed",
+                "Fri",
+                "Fri",
                 "Fri",
                 "Fri"
             ],
             "Time": [
-                "15:00-17:00",
+                "13:00-15:00",
+                "13:00-15:00",
                 "8:00-9:30",
+                "8:00-9:30",
+                "9:30-12:30",
                 "9:30-12:30"
             ]
         },
         "00002": {
             "Title": "Exotic Animal Care",
-            "Teacher": "Deschamps, Annie",
+            "Teacher": "Laett, Stephanie",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=1456EXVAx94187&cno=145-6EX-VA&cti=ExoticAnimalCare",
             "More Info": "",
             "Day": [
-                "Thu",
+                "Wed",
+                "Wed",
+                "Fri",
+                "Fri",
                 "Fri",
                 "Fri"
             ],
             "Time": [
-                "15:00-17:00",
+                "13:00-15:00",
+                "13:00-15:00",
                 "8:00-9:30",
+                "8:00-9:30",
+                "12:30-15:30",
                 "12:30-15:30"
             ]
         }
@@ -6229,9 +6241,9 @@
             ]
         },
         "00003": {
-            "Title": "ON RESERVE: Electrical Fundamentals",
+            "Title": "Electrical Fundamentals II",
             "Teacher": "Robinson, Louise",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243202VAx237919&cno=243-202-VA&cti=ONRESERVE:ElectricalFundamentals",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243202VAx237919&cno=243-202-VA&cti=ElectricalFundamentalsII",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -6317,9 +6329,9 @@
             ]
         },
         "00003": {
-            "Title": "ON RESERVE: Analog Circuits",
+            "Title": "Analog Circuits",
             "Teacher": "Rudi, Nicholas",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243204VAx237921&cno=243-204-VA&cti=ONRESERVE:AnalogCircuits",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243204VAx237921&cno=243-204-VA&cti=AnalogCircuits",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -9105,7 +9117,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "14:00-14:30"
             ]
         },
         "00019": {
@@ -9369,7 +9381,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "13:30-14:00"
             ]
         },
         "00013": {
@@ -9597,9 +9609,9 @@
             ]
         },
         "00005": {
-            "Title": "Ethics and Reproduction",
+            "Title": "Ethics of Heroes and Monsters",
             "Teacher": "Rose, Katherine",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSAVAg2416&cno=345-HSA-VA&cti=EthicsofHeroesandMonsters",
             "More Info": "",
             "Day": [
                 "Tue"
@@ -9731,7 +9743,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "13:30-14:00"
             ]
         },
         "00007": {
@@ -17555,7 +17567,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "13:00-13:30"
             ]
         }
     },
@@ -17677,7 +17689,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "13:00-13:30"
             ]
         }
     },
@@ -19893,7 +19905,7 @@
         "00002": {
             "Title": "Chanter le Qu\u00e9bec",
             "Teacher": "Gagn\u00e9, Julie",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQx207372&cno=602-100-MQ&cti=ChanterleQu\u00e9bec",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQg2473&cno=602-100-MQ&cti=ChanterleQu\u00e9bec",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -19905,9 +19917,9 @@
             ]
         },
         "00003": {
-            "Title": "Les relations interlinguistiques au",
+            "Title": "Les relations interlinguistiques au Qu\u00e9bec",
             "Teacher": "Gagn\u00e9, Philippe",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQx207372&cno=602-100-MQ&cti=Lesrelationsinterlinguistiquesau",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQg2474&cno=602-100-MQ&cti=LesrelationsinterlinguistiquesauQu\u00e9bec",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -19919,9 +19931,9 @@
             ]
         },
         "00004": {
-            "Title": "Les relations interlinguistiques au",
+            "Title": "Les relations interlinguistiques au Qu\u00e9bec",
             "Teacher": "Gagn\u00e9, Philippe",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQx207372&cno=602-100-MQ&cti=Lesrelationsinterlinguistiquesau",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQg2474&cno=602-100-MQ&cti=LesrelationsinterlinguistiquesauQu\u00e9bec",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -20041,9 +20053,9 @@
             ]
         },
         "00003": {
-            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante",
+            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante et de suspense",
             "Teacher": "Der Aprahamian, Isabelle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQx207374&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvante",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg1729&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvanteetdesuspense",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -20053,9 +20065,9 @@
             ]
         },
         "00004": {
-            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante",
+            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante et de suspense",
             "Teacher": "Der Aprahamian, Isabelle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQx207374&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvante",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg1729&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvanteetdesuspense",
             "More Info": "",
             "Day": [
                 "Wed"
@@ -20125,9 +20137,9 @@
             ]
         },
         "00010": {
-            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante",
+            "Title": "Fais-moi peur! En qu\u00eate d'\u00e9pouvante et de suspense",
             "Teacher": "Boucher, Genevi\u00e8ve",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQx207374&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvante",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg1729&cno=602-102-MQ&cti=Fais-moipeur!Enqu\u00eated'\u00e9pouvanteetdesuspense",
             "More Info": "",
             "Day": [
                 "Tue"
@@ -20163,7 +20175,7 @@
         "00013": {
             "Title": "Dialogues interculturels",
             "Teacher": "Jobin, Rachel",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQx207374&cno=602-102-MQ&cti=Dialoguesinterculturels",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg1719&cno=602-102-MQ&cti=Dialoguesinterculturels",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -20175,7 +20187,7 @@
         "00014": {
             "Title": "Dialogues interculturels",
             "Teacher": "Jobin, Rachel",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQx207374&cno=602-102-MQ&cti=Dialoguesinterculturels",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg1719&cno=602-102-MQ&cti=Dialoguesinterculturels",
             "More Info": "",
             "Day": [
                 "Mon"
@@ -20355,7 +20367,7 @@
                 ""
             ],
             "Time": [
-                "9:00-9:30"
+                "14:00-14:30"
             ]
         },
         "00005": {
@@ -20625,7 +20637,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "14:00-14:30"
             ]
         }
     },
@@ -20639,7 +20651,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "14:00-14:30"
             ]
         },
         "00002": {
@@ -20679,7 +20691,7 @@
                 ""
             ],
             "Time": [
-                "8:00-8:30"
+                "14:00-14:30"
             ]
         }
     },
@@ -21597,9 +21609,9 @@
             ]
         },
         "00006": {
-            "Title": "Empowering Woman: Victorian Social",
+            "Title": "Empowering Woman: Victorian Social Anxieties",
             "Teacher": "Dimakis, Panagiota",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocial",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -21611,9 +21623,9 @@
             ]
         },
         "00007": {
-            "Title": "Empowering Woman: Victorian Social",
+            "Title": "Empowering Woman: Victorian Social Anxieties",
             "Teacher": "Dimakis, Panagiota",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocial",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21695,9 +21707,9 @@
             ]
         },
         "00013": {
-            "Title": "Communal Identity in Literature",
+            "Title": "Intersexions: Race, Gender, and Sexuality in Literature, Film, and Media",
             "Teacher": "Wong, Alan David",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg1890&cno=603-103-MQ&cti=CommunalIdentityinLiterature",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg2476&cno=603-103-MQ&cti=Intersexions:Race,Gender,andSexualityinLiterature,Film,andMedia",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21793,9 +21805,9 @@
             ]
         },
         "00020": {
-            "Title": "Social Justice,  Literature, Popular Culture",
+            "Title": "Social Justice, Literature, Popular Culture",
             "Teacher": "Diner, Robyn Kimberley",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=SocialJustice,Literature,PopularCulture",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg2388&cno=603-103-MQ&cti=SocialJustice,Literature,PopularCulture",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21939,9 +21951,9 @@
             ]
         },
         "00004": {
-            "Title": "Taking the Red Pill",
+            "Title": "Understanding and Control: The Human Pursuit",
             "Teacher": "Katz, Jason Michael",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSDVAg2102&cno=603-HSD-VA&cti=TakingtheRedPill",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSDVAg2163&cno=603-HSD-VA&cti=UnderstandingandControl:TheHumanPursuit",
             "More Info": "",
             "Day": [
                 "Mon",
