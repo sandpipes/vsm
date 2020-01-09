@@ -681,9 +681,9 @@
             ]
         },
         "00005": {
-            "Title": "Fitness/Team Sports:  Land & Water",
+            "Title": "Fitness Team Sports: Land & Water",
             "Teacher": "Viray, Rubynell Gavini",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQx207332&cno=109-101-MQ&cti=Fitness/TeamSports:Land&Water",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQg103&cno=109-101-MQ&cti=FitnessTeamSports:Land&Water",
             "More Info": "",
             "Day": [
                 "Mon"
@@ -693,9 +693,9 @@
             ]
         },
         "00006": {
-            "Title": "Fitness/Team Sports:  Land & Water",
+            "Title": "Fitness Team Sports: Land & Water",
             "Teacher": "Dugrenier, Martine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQx207332&cno=109-101-MQ&cti=Fitness/TeamSports:Land&Water",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQg103&cno=109-101-MQ&cti=FitnessTeamSports:Land&Water",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -953,9 +953,9 @@
             ]
         },
         "00026": {
-            "Title": "Fitness/Team Sports",
+            "Title": "Fitness Team Sports",
             "Teacher": "Ip Yam, Yannick",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQx207332&cno=109-101-MQ&cti=Fitness/TeamSports",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109101MQg101&cno=109-101-MQ&cti=FitnessTeamSports",
             "More Info": "",
             "Day": [
                 "Thu",
@@ -968,16 +968,6 @@
         }
     },
     "109-102-MQ": {
-        "00001": {
-            "Title": "January Intersession: Yoga Stress Management",
-            "Teacher": "Braul, Jessica",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQg2461&cno=109-102-MQ&cti=JanuaryIntersession:YogaStressManagement",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00002": {
             "Title": "May Intersession: Fitness Aquatics",
             "Teacher": "Tzavellas, Georgia",
@@ -1444,26 +1434,6 @@
         }
     },
     "109-103-MQ": {
-        "00001": {
-            "Title": "January Intersession: Alpine Skiing Snowboarding",
-            "Teacher": "Gribbon, Marie",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109103MQx207334&cno=109-103-MQ&cti=JanuaryIntersession:AlpineSkiingSnowboarding",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
-        "00002": {
-            "Title": "January Intersession: Group Fitness",
-            "Teacher": "Lambert, Shawna",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109103MQg2315&cno=109-103-MQ&cti=JanuaryIntersession:GroupFitness",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00003": {
             "Title": "Intensive: Mountain Biking",
             "Teacher": "Longtin, Gregory",
@@ -2691,12 +2661,10 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Thu",
                 "Thu"
             ],
             "Time": [
                 "14:00-16:00",
-                "10:00-14:00",
                 "10:00-14:00"
             ]
         }
@@ -9070,16 +9038,6 @@
                 "10:00-12:00"
             ]
         },
-        "00015": {
-            "Title": "January Intersession: Writing on the Wall",
-            "Teacher": "Ghaly, Salwa William Shafik",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg2453&cno=345-101-MQ&cti=JanuaryIntersession:WritingontheWall",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00016": {
             "Title": "Know Thy Selfie",
             "Teacher": "Chwojka, Caroline V\u00e9ronique",
@@ -9508,16 +9466,6 @@
                 "13:30-15:00"
             ]
         },
-        "00023": {
-            "Title": "January Intersession: Who's Afraid of Arabs?",
-            "Teacher": "Bdeir, Leila",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345102MQg2464&cno=345-102-MQ&cti=JanuaryIntersession:Who'sAfraidofArabs?",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00024": {
             "Title": "Challenge of Modernity",
             "Teacher": "Jerzykiewicz, Luke Wadim",
@@ -9697,7 +9645,7 @@
         "00003": {
             "Title": "Honours ONLY: The Ethics of Mobility",
             "Teacher": "Ingerman, Judith E.",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSBVAg2477&cno=345-HSB-VA&cti=HonoursONLY:TheEthicsofMobility",
             "More Info": "",
             "Day": [
                 "Tue"
@@ -9929,18 +9877,6 @@
             "Time": [
                 "11:30-14:30"
             ]
-        }
-    },
-    "345-HSZ-VA": {
-        "00001": {
-            "Title": "January Intersession: The Ethics of Mobility",
-            "Teacher": "Ingerman, Judith E.",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSZVAg2467&cno=345-HSZ-VA&cti=JanuaryIntersession:TheEthicsofMobility",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
         }
     },
     "350-102-VA": {
@@ -12008,16 +11944,6 @@
         }
     },
     "370-100-VA": {
-        "00001": {
-            "Title": "January Intersession: Unlocking the World Spirit",
-            "Teacher": "Manjikian, Sevak",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=370100VAx127440&cno=370-100-VA&cti=JanuaryIntersession:UnlockingtheWorldSpirit",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00002": {
             "Title": "Unlocking the World Spirit",
             "Teacher": "Manjikian, Sevak",
@@ -12046,16 +11972,6 @@
         }
     },
     "370-HSF-VA": {
-        "00001": {
-            "Title": "January Intersession: Unlocking the World Spirit",
-            "Teacher": "Manjikian, Sevak",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=370HSFVAx127715&cno=370-HSF-VA&cti=JanuaryIntersession:UnlockingtheWorldSpirit",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
-        },
         "00002": {
             "Title": "Unlocking the World Spirit",
             "Teacher": "Manjikian, Sevak",
@@ -19943,16 +19859,6 @@
                 "14:30-16:00",
                 "13:30-15:00"
             ]
-        },
-        "00005": {
-            "Title": "January Intersession: Vivement le quotidien!",
-            "Teacher": "Beliveau, Isabelle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602100MQg2457&cno=602-100-MQ&cti=JanuaryIntersession:Vivementlequotidien!",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
         }
     },
     "602-101-MQ": {
@@ -20075,16 +19981,6 @@
             "Time": [
                 "15:00-18:00"
             ]
-        },
-        "00005": {
-            "Title": "January Intersession: Voix afro-antillaise",
-            "Teacher": "Altidor, Danielle",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602102MQg2458&cno=602-102-MQ&cti=JanuaryIntersession:Voixafro-antillaise",
-            "More Info": "",
-            "Day": [
-                ""
-            ],
-            "Time": []
         },
         "00006": {
             "Title": "Voix afro-antillaise",
@@ -20483,9 +20379,9 @@
     },
     "602-HSF-VA": {
         "00001": {
-            "Title": "La transition \u00e9conomique, c\u2019est maintenant",
+            "Title": "La transition \u00e9conomique, c'est maintenant",
             "Teacher": "Niculae, Laura Ionela",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSFVAg2478&cno=602-HSF-VA&cti=Latransition\u00e9conomique,c'estmaintenant",
             "More Info": "",
             "Day": [
                 "Mon"
