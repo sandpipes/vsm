@@ -373,9 +373,9 @@
             ]
         },
         "00009": {
-            "Title": "ON RESERVE: General Biology II",
-            "Teacher": "TBA 101, Teacher 1",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101HTK05x88590&cno=101-HTK-05&cti=ONRESERVE:GeneralBiologyII",
+            "Title": "General Biology II",
+            "Teacher": "Baurhoo, Neerusha",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101HTK05x88590&cno=101-HTK-05&cti=GeneralBiologyII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -385,7 +385,7 @@
             "Time": [
                 "16:00-17:30",
                 "8:30-11:30",
-                "11:30-13:00"
+                "10:00-11:30"
             ]
         }
     },
@@ -570,23 +570,17 @@
         },
         "00009": {
             "Title": "ON RESERVE: General Biology I",
-            "Teacher": "Baurhoo, Neerusha",
+            "Teacher": "TBA 101, Teacher 1",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101NYA05x88684&cno=101-NYA-05&cti=ONRESERVE:GeneralBiologyI",
             "More Info": "",
             "Day": [
                 "Tue",
-                "Tue",
                 "Wed",
-                "Wed",
-                "Fri",
                 "Fri"
             ],
             "Time": [
                 "14:30-16:00",
-                "14:30-16:00",
                 "9:00-12:00",
-                "9:00-12:00",
-                "13:00-14:30",
                 "13:00-14:30"
             ]
         }
@@ -1285,9 +1279,9 @@
             ]
         },
         "00027": {
-            "Title": "Intensive: Hiking  Camping",
+            "Title": "Intensive: Hiking Camping",
             "Teacher": "McIntyre, Holly A",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQx207333&cno=109-102-MQ&cti=Intensive:HikingCamping",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQg2319&cno=109-102-MQ&cti=Intensive:HikingCamping",
             "More Info": "",
             "Day": [
                 ""
@@ -2492,8 +2486,8 @@
             "Time": [
                 "10:00-12:00",
                 "10:00-12:00",
-                "9:00-12:00",
-                "9:00-12:00"
+                "8:30-11:30",
+                "8:30-11:30"
             ]
         }
     },
@@ -6095,11 +6089,11 @@
             "More Info": "",
             "Day": [
                 "Wed",
-                "Fri"
+                "Wed"
             ],
             "Time": [
-                "10:00-12:00",
-                "14:00-16:00"
+                "8:00-10:00",
+                "10:00-12:00"
             ]
         }
     },
@@ -6813,20 +6807,6 @@
                 "8:00-13:00",
                 "8:00-10:30"
             ]
-        },
-        "00002": {
-            "Title": "Product Development II",
-            "Teacher": "Salik, John Farakh N.",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247606VAx237961&cno=247-606-VA&cti=ProductDevelopmentII",
-            "More Info": "",
-            "Day": [
-                "Thu",
-                "Fri"
-            ],
-            "Time": [
-                "8:00-10:30",
-                "8:00-13:00"
-            ]
         }
     },
     "247-607-VA": {
@@ -6838,20 +6818,6 @@
             "Day": [
                 "Mon",
                 "Tue"
-            ],
-            "Time": [
-                "10:00-12:00",
-                "14:00-18:00"
-            ]
-        },
-        "00002": {
-            "Title": "Computerized Systems Optimization",
-            "Teacher": "Khataie, Manijeh",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247607VAx237962&cno=247-607-VA&cti=ComputerizedSystemsOptimization",
-            "More Info": "",
-            "Day": [
-                "Mon",
-                "Wed"
             ],
             "Time": [
                 "10:00-12:00",
@@ -6872,20 +6838,6 @@
             "Time": [
                 "12:00-14:00",
                 "10:00-14:00"
-            ]
-        },
-        "00002": {
-            "Title": "Networked Embedded Systems",
-            "Teacher": "Fong, Day Yann",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247609VAx237963&cno=247-609-VA&cti=NetworkedEmbeddedSystems",
-            "More Info": "",
-            "Day": [
-                "Tue",
-                "Thu"
-            ],
-            "Time": [
-                "14:00-18:00",
-                "12:00-14:00"
             ]
         }
     },
@@ -6912,20 +6864,6 @@
             "Day": [
                 "Mon",
                 "Wed"
-            ],
-            "Time": [
-                "12:00-14:00",
-                "8:00-12:00"
-            ]
-        },
-        "00002": {
-            "Title": "Embedded Operating Systems",
-            "Teacher": "Hould, Serge",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247611VAx237965&cno=247-611-VA&cti=EmbeddedOperatingSystems",
-            "More Info": "",
-            "Day": [
-                "Mon",
-                "Tue"
             ],
             "Time": [
                 "12:00-14:00",
@@ -8927,9 +8865,9 @@
             ]
         },
         "00007": {
-            "Title": "Science and the Humanities",
+            "Title": "Science in the Humanities",
             "Teacher": "Sims, Jeffrey H.",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg2488&cno=345-101-MQ&cti=ScienceintheHumanities",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -8941,7 +8879,7 @@
             ]
         },
         "00008": {
-            "Title": "Understanding Fascism",
+            "Title": "Understanding Fascism and Totalitarianism",
             "Teacher": "Manjikian, Sevak",
             "Course Info": "",
             "More Info": "",
@@ -9093,9 +9031,9 @@
             ]
         },
         "00020": {
-            "Title": "Know Thy Selfie",
-            "Teacher": "Chwojka, Caroline V\u00e9ronique",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg866&cno=345-101-MQ&cti=KnowThySelfie",
+            "Title": "What is Art?",
+            "Teacher": "Rose, Katherine",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345101MQg2310&cno=345-101-MQ&cti=WhatisArt?",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -9381,7 +9319,7 @@
         "00016": {
             "Title": "Religion, Media and Society",
             "Teacher": "Koloszyc, David",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345102MQg2486&cno=345-102-MQ&cti=Religion,MediaandSociety",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -9533,9 +9471,9 @@
             ]
         },
         "00003": {
-            "Title": "Progress and its Discontents",
+            "Title": "Progress and It's Discontents",
             "Teacher": "Koloszyc, David",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSAVAg939&cno=345-HSA-VA&cti=ProgressanditsDiscontents",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSAVAg2487&cno=345-HSA-VA&cti=ProgressandIt'sDiscontents",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -9733,7 +9671,7 @@
         "00010": {
             "Title": "The Art of Becoming a Grown Up",
             "Teacher": "Gauthier, Sean Thomas",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSBVAg2485&cno=345-HSB-VA&cti=TheArtofBecomingaGrownUp",
             "More Info": "",
             "Day": [
                 "Fri"
@@ -9745,7 +9683,7 @@
         "00011": {
             "Title": "The Art of Becoming a Grown Up",
             "Teacher": "Gauthier, Sean Thomas",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSBVAg2485&cno=345-HSB-VA&cti=TheArtofBecomingaGrownUp",
             "More Info": "",
             "Day": [
                 "Thu"
@@ -9829,9 +9767,9 @@
             ]
         },
         "00005": {
-            "Title": "Progress and Its Discontents",
+            "Title": "Progress and It's Discontents",
             "Teacher": "Koloszyc, David",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSCVAg939&cno=345-HSC-VA&cti=ProgressandItsDiscontents",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=345HSCVAg2487&cno=345-HSC-VA&cti=ProgressandIt'sDiscontents",
             "More Info": "",
             "Day": [
                 "Thu"
@@ -11160,7 +11098,7 @@
     "351-142-VA": {
         "00001": {
             "Title": "Clientele I",
-            "Teacher": "Campbell, Susan",
+            "Teacher": "Lawsane, Jade",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=351142VAx221243&cno=351-142-VA&cti=ClienteleI",
             "More Info": "",
             "Day": [
@@ -14040,7 +13978,7 @@
     "401-200-VA": {
         "00001": {
             "Title": "Marketing",
-            "Teacher": "Vogopoulos, Panayiotis Peter",
+            "Teacher": "Morfopos, Nicolaos",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401200VAx131791&cno=401-200-VA&cti=Marketing",
             "More Info": "",
             "Day": [
@@ -14056,7 +13994,7 @@
     "401-202-VA": {
         "00001": {
             "Title": "Marketing for Entrepreneurs",
-            "Teacher": "Vogopoulos, Panayiotis Peter",
+            "Teacher": "De Koos, David Robert",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401202VAx213127&cno=401-202-VA&cti=MarketingforEntrepreneurs",
             "More Info": "",
             "Day": [
@@ -14310,7 +14248,7 @@
     "401-HTA-03": {
         "00001": {
             "Title": "Marketing",
-            "Teacher": "Vogopoulos, Panayiotis Peter",
+            "Teacher": "Morfopos, Nicolaos",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401HTA03x132489&cno=401-HTA-03&cti=Marketing",
             "More Info": "",
             "Day": [
@@ -14370,7 +14308,7 @@
     "401-HTE-VA": {
         "00001": {
             "Title": "Marketing for Entrepreneurs",
-            "Teacher": "Vogopoulos, Panayiotis Peter",
+            "Teacher": "De Koos, David Robert",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401HTEVAx212901&cno=401-HTE-VA&cti=MarketingforEntrepreneurs",
             "More Info": "",
             "Day": [
@@ -14820,7 +14758,7 @@
         },
         "00002": {
             "Title": "Management",
-            "Teacher": "Vogopoulos, Panayiotis Peter",
+            "Teacher": "Morfopos, Nicolaos",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=410442VAx210713&cno=410-442-VA&cti=Management",
             "More Info": "",
             "Day": [
@@ -15370,7 +15308,7 @@
     "412-200-VA": {
         "00001": {
             "Title": "Web 2: cms, Frameworks and Libraries",
-            "Teacher": "Norton, Richard Bruce",
+            "Teacher": "Ng, Yui Hang",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=412200VAx237690&cno=412-200-VA&cti=Web2:cms,FrameworksandLibraries",
             "More Info": "",
             "Day": [
@@ -17475,9 +17413,9 @@
     },
     "530-123-VA": {
         "00001": {
-            "Title": "MORE Info about this Section",
+            "Title": "May Intersession: Cinema Styles",
             "Teacher": "Litynski, Justine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=530123VA1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=530123VAx230680&cno=530-123-VA&cti=MayIntersession:CinemaStyles",
             "More Info": "",
             "Day": [
                 ""
@@ -17597,9 +17535,9 @@
     },
     "530-HSJ-VA": {
         "00001": {
-            "Title": "MORE Info about this Section",
+            "Title": "May Intersession: Cinema Styles",
             "Teacher": "Litynski, Justine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=530HSJVA1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=530HSJVAx231597&cno=530-HSJ-VA&cti=MayIntersession:CinemaStyles",
             "More Info": "",
             "Day": [
                 ""
@@ -20575,6 +20513,18 @@
             "Time": [
                 "8:30-11:30"
             ]
+        },
+        "00004": {
+            "Title": "R\u00e9flexions sur les arts et les sciences humaines",
+            "Teacher": "L'Allier, Anne",
+            "Course Info": "",
+            "More Info": "",
+            "Day": [
+                "Thu"
+            ],
+            "Time": [
+                "11:30-14:30"
+            ]
         }
     },
     "602-HSW-VA": {
@@ -21211,7 +21161,7 @@
         "00024": {
             "Title": "Women in Prose",
             "Teacher": "Rohland-Le, Andrea Louise",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQx207377&cno=603-102-MQ&cti=WomeninProse",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg2480&cno=603-102-MQ&cti=WomeninProse",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21225,7 +21175,7 @@
         "00025": {
             "Title": "Women in Prose",
             "Teacher": "Rohland-Le, Andrea Louise",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQx207377&cno=603-102-MQ&cti=WomeninProse",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg2480&cno=603-102-MQ&cti=WomeninProse",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21265,9 +21215,9 @@
             ]
         },
         "00028": {
-            "Title": "Fallen Angels",
-            "Teacher": "Bucaro, Maria",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg1933&cno=603-102-MQ&cti=FallenAngels",
+            "Title": "Significant Stages",
+            "Teacher": "Flewwelling-Skup, Aurora",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg2089&cno=603-102-MQ&cti=SignificantStages",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -21309,7 +21259,7 @@
         "00031": {
             "Title": "The Good Book: The Bible as Literature",
             "Teacher": "Durling, Eric",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQx207377&cno=603-102-MQ&cti=TheGoodBook:TheBibleasLiterature",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg2481&cno=603-102-MQ&cti=TheGoodBook:TheBibleasLiterature",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21321,9 +21271,9 @@
             ]
         },
         "00032": {
-            "Title": "\"The Gods are Fallen:\" Coming of Age in Modern and Contemporary Fiction",
+            "Title": "The Gods are Fallen: Coming of Age in Modern and Contemporary Fiction",
             "Teacher": "Rikkers, Christine",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQx207377&cno=603-102-MQ&cti=",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603102MQg2313&cno=603-102-MQ&cti=TheGodsareFallen:ComingofAgeinModernandContemporaryFiction",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21507,7 +21457,7 @@
         "00006": {
             "Title": "Empowering Woman: Victorian Social Anxieties",
             "Teacher": "Dimakis, Panagiota",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg2482&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -21521,7 +21471,7 @@
         "00007": {
             "Title": "Empowering Woman: Victorian Social Anxieties",
             "Teacher": "Dimakis, Panagiota",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQx207378&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603103MQg2482&cno=603-103-MQ&cti=EmpoweringWoman:VictorianSocialAnxieties",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -21773,9 +21723,9 @@
             ]
         },
         "00002": {
-            "Title": "Working Words:The English Literature of Commerce and Industry",
+            "Title": "Working Words: The English Literature of Commerce and Industry",
             "Teacher": "Hanly, Brock A",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSAVAx209268&cno=603-HSA-VA&cti=WorkingWords:TheEnglishLiteratureofCommerceandIndustry",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSAVAg2483&cno=603-HSA-VA&cti=WorkingWords:TheEnglishLiteratureofCommerceandIndustry",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -21789,9 +21739,9 @@
     },
     "603-HSB-VA": {
         "00001": {
-            "Title": "Medicine, Magic and Fairytales",
-            "Teacher": "Flewwelling-Skup, Aurora",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSBVAx209269&cno=603-HSB-VA&cti=Medicine,MagicandFairytales",
+            "Title": "Mind, Body, & Soul: Caregiving & Mental & Emotional Health",
+            "Teacher": "Wong, Alan David",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=603HSBVAg2344&cno=603-HSB-VA&cti=Mind,Body,&Soul:Caregiving&Mental&EmotionalHealth",
             "More Info": "",
             "Day": [
                 "Tue",
