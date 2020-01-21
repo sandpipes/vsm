@@ -69,7 +69,7 @@
         "00001": {
             "Title": "Biology for EWM II",
             "Teacher": "Panzuto, Maria T.",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101214VAx245925&cno=101-214-VA&cti=BiologyforEWMII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -85,7 +85,7 @@
         "00001": {
             "Title": "Plant Life",
             "Teacher": "Silva Neiva, Lissiene",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101215VAx245926&cno=101-215-VA&cti=PlantLife",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -101,7 +101,7 @@
         "00001": {
             "Title": "Anatomy and Physiology I for AHT",
             "Teacher": "Roffey, Heather",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101224VAx245927&cno=101-224-VA&cti=AnatomyandPhysiologyIforAHT",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -117,7 +117,7 @@
         "00002": {
             "Title": "Anatomy and Physiology I for AHT",
             "Teacher": "Roffey, Heather",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101224VAx245927&cno=101-224-VA&cti=AnatomyandPhysiologyIforAHT",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -553,22 +553,6 @@
                 "13:30-15:00",
                 "14:30-17:30"
             ]
-        },
-        "00009": {
-            "Title": "ON RESERVE: General Biology I",
-            "Teacher": "TBA 101, Teacher 1",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=101NYA05x88684&cno=101-NYA-05&cti=ONRESERVE:GeneralBiologyI",
-            "More Info": "",
-            "Day": [
-                "Tue",
-                "Wed",
-                "Fri"
-            ],
-            "Time": [
-                "14:30-16:00",
-                "9:00-12:00",
-                "13:00-14:30"
-            ]
         }
     },
     "105-003-RE": {
@@ -585,22 +569,6 @@
             "Time": [
                 "11:30-13:00",
                 "10:00-12:00",
-                "10:00-11:30"
-            ]
-        },
-        "00002": {
-            "Title": "ON RESERVE: Remedial Activities for Secondary IV Environmental Science and Technology",
-            "Teacher": "TBA 203, Teacher 1",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=105003REx246959&cno=105-003-RE&cti=ONRESERVE:RemedialActivitiesforSecondaryIVEnvironmentalScienceandTechnology",
-            "More Info": "",
-            "Day": [
-                "Mon",
-                "Tue",
-                "Thu"
-            ],
-            "Time": [
-                "11:30-13:00",
-                "12:00-14:00",
                 "10:00-11:30"
             ]
         }
@@ -1218,20 +1186,6 @@
                 "16:00-18:00"
             ]
         },
-        "00024": {
-            "Title": "Fitness Stress Management",
-            "Teacher": "Gribbon, Marie",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQg99&cno=109-102-MQ&cti=FitnessStressManagement",
-            "More Info": "",
-            "Day": [
-                "Wed",
-                "Wed"
-            ],
-            "Time": [
-                "8:00-10:00",
-                "8:00-10:00"
-            ]
-        },
         "00025": {
             "Title": "Volleyball",
             "Teacher": "Schapman, Linda Karen",
@@ -1407,9 +1361,9 @@
             ]
         },
         "00039": {
-            "Title": "Physical  Activity and Effectiveness",
+            "Title": "Volleyball",
             "Teacher": "Ip Yam, Yannick",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQx207333&cno=109-102-MQ&cti=PhysicalActivityandEffectiveness",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=109102MQg180&cno=109-102-MQ&cti=Volleyball",
             "More Info": "",
             "Day": [
                 "Tue"
@@ -2307,9 +2261,9 @@
     },
     "145-214-VA": {
         "00001": {
-            "Title": "MORE Info about this Section",
+            "Title": "Vertebrate Life II",
             "Teacher": "Van Ginhoven, Quentin",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=145214VA1",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145214VAx245933&cno=145-214-VA&cti=VertebrateLifeII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2321,9 +2275,9 @@
             ]
         },
         "00002": {
-            "Title": "MORE Info about this Section",
+            "Title": "Vertebrate Life II",
             "Teacher": "Van Ginhoven, Quentin",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/tphimemo2.asp?sec=145214VA2",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145214VAx245933&cno=145-214-VA&cti=VertebrateLifeII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2339,19 +2293,25 @@
         "00001": {
             "Title": "Veterinary Practice Management",
             "Teacher": "Senay, Caroline",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145221VAx245934&cno=145-221-VA&cti=VeterinaryPracticeManagement",
             "More Info": "",
             "Day": [
                 "Wed",
                 "Wed",
+                "Wed",
+                "Thu",
+                "Thu",
                 "Thu",
                 "Thu",
                 "Thu",
                 "Thu"
             ],
             "Time": [
-                "13:30-15:30",
-                "13:30-15:30",
+                "13:00-15:00",
+                "13:00-15:00",
+                "13:00-15:00",
+                "11:30-14:30",
+                "11:30-14:30",
                 "11:30-14:30",
                 "11:30-14:30",
                 "11:30-14:30",
@@ -2363,7 +2323,7 @@
         "00001": {
             "Title": "Companion Animal Care II",
             "Teacher": "Varano, Sara",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145222VAx245935&cno=145-222-VA&cti=CompanionAnimalCareII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2377,7 +2337,7 @@
         "00002": {
             "Title": "Companion Animal Care II",
             "Teacher": "Varano, Sara",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145222VAx245935&cno=145-222-VA&cti=CompanionAnimalCareII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2391,7 +2351,7 @@
         "00003": {
             "Title": "Companion Animal Care II",
             "Teacher": "Varano, Sara",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145222VAx245935&cno=145-222-VA&cti=CompanionAnimalCareII",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2407,7 +2367,7 @@
         "00001": {
             "Title": "Introduction to Lab and Farm Animals",
             "Teacher": "Blanc, Patrick",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145223VAx245936&cno=145-223-VA&cti=IntroductiontoLabandFarmAnimals",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2421,7 +2381,7 @@
         "00002": {
             "Title": "Introduction to Lab and Farm Animals",
             "Teacher": "Blanc, Patrick",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145223VAx245936&cno=145-223-VA&cti=IntroductiontoLabandFarmAnimals",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2435,7 +2395,7 @@
         "00003": {
             "Title": "Introduction to Lab and Farm Animals",
             "Teacher": "Blanc, Patrick",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=145223VAx245936&cno=145-223-VA&cti=IntroductiontoLabandFarmAnimals",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -2975,14 +2935,22 @@
             "More Info": "",
             "Day": [
                 "Tue",
+                "Tue",
+                "Wed",
                 "Wed",
                 "Thu",
+                "Thu",
+                "Fri",
                 "Fri"
             ],
             "Time": [
                 "8:00-18:00",
                 "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
                 "10:00-12:00",
+                "10:00-12:00",
+                "8:30-11:30",
                 "8:30-11:30"
             ]
         }
@@ -2995,14 +2963,22 @@
             "More Info": "",
             "Day": [
                 "Tue",
+                "Tue",
+                "Wed",
                 "Wed",
                 "Thu",
+                "Thu",
+                "Fri",
                 "Fri"
             ],
             "Time": [
                 "8:00-18:00",
                 "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
                 "10:00-12:00",
+                "10:00-12:00",
+                "10:00-13:00",
                 "10:00-13:00"
             ]
         }
@@ -3015,12 +2991,28 @@
             "More Info": "",
             "Day": [
                 "Tue",
+                "Tue",
+                "Tue",
+                "Wed",
+                "Wed",
                 "Wed",
                 "Thu",
+                "Thu",
+                "Thu",
+                "Fri",
+                "Fri",
                 "Fri"
             ],
             "Time": [
                 "8:00-16:00",
+                "8:00-16:00",
+                "8:00-16:00",
+                "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
+                "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00",
                 "8:00-18:00"
@@ -3413,7 +3405,7 @@
         "00001": {
             "Title": "Introduction to Biometry",
             "Teacher": "Ivanov, Ivan T.",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=201214VAx245915&cno=201-214-VA&cti=IntroductiontoBiometry",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -3895,7 +3887,7 @@
         "00001": {
             "Title": "Chemistry II for AHT",
             "Teacher": "Brunet, Philippe",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202226VAx245916&cno=202-226-VA&cti=ChemistryIIforAHT",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -3911,7 +3903,7 @@
         "00002": {
             "Title": "Chemistry II for AHT",
             "Teacher": "Brunet, Philippe",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=202226VAx245916&cno=202-226-VA&cti=ChemistryIIforAHT",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -6431,7 +6423,7 @@
         "00001": {
             "Title": "Machines and Drives",
             "Teacher": "Amine, Ali",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243405VAx237931&cno=243-405-VA&cti=MachinesandDrives",
             "More Info": "",
             "Day": [
                 "Wed",
@@ -6447,7 +6439,7 @@
         "00002": {
             "Title": "Machines and Drives",
             "Teacher": "Amine, Ali",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243405VAx237931&cno=243-405-VA&cti=MachinesandDrives",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -6503,7 +6495,7 @@
         "00001": {
             "Title": "Control Project Implementation",
             "Teacher": "Amine, Ali",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=243603VAx237939&cno=243-603-VA&cti=ControlProjectImplementation",
             "More Info": "",
             "Day": [
                 "Mon",
@@ -6536,7 +6528,7 @@
     "247-205-VA": {
         "00001": {
             "Title": "Circuit Analysis and Simulation II",
-            "Teacher": "Khataie, Manijeh",
+            "Teacher": "Iftimie, Andreea",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247205VAx237945&cno=247-205-VA&cti=CircuitAnalysisandSimulationII",
             "More Info": "",
             "Day": [
@@ -6644,12 +6636,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247405VAx237952&cno=247-405-VA&cti=CircuitsandEmbeddedSystems",
             "More Info": "",
             "Day": [
-                "Mon",
-                "Tue"
+                "Tue",
+                "Fri"
             ],
             "Time": [
-                "8:30-11:30",
-                "14:00-16:00"
+                "14:00-16:00",
+                "11:30-14:30"
             ]
         }
     },
@@ -6691,20 +6683,6 @@
             "More Info": "",
             "Day": [
                 "Tue",
-                "Fri"
-            ],
-            "Time": [
-                "10:00-12:00",
-                "11:30-14:30"
-            ]
-        },
-        "00002": {
-            "Title": "Network Fundamentals",
-            "Teacher": "Iftimie, Andreea",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247409VAx237954&cno=247-409-VA&cti=NetworkFundamentals",
-            "More Info": "",
-            "Day": [
-                "Tue",
                 "Wed"
             ],
             "Time": [
@@ -6714,20 +6692,6 @@
         }
     },
     "247-410-VA": {
-        "00001": {
-            "Title": "Telecommunications",
-            "Teacher": "Fong, Day Yann",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247410VAx237955&cno=247-410-VA&cti=Telecommunications",
-            "More Info": "",
-            "Day": [
-                "Wed",
-                "Thu"
-            ],
-            "Time": [
-                "10:00-12:00",
-                "14:30-17:30"
-            ]
-        },
         "00002": {
             "Title": "Telecommunications",
             "Teacher": "Fong, Day Yann",
@@ -6770,7 +6734,7 @@
                 "Tue"
             ],
             "Time": [
-                "10:00-12:00",
+                "12:00-14:30",
                 "14:00-18:00"
             ]
         },
@@ -6784,7 +6748,7 @@
                 "Wed"
             ],
             "Time": [
-                "10:00-12:00",
+                "12:00-14:30",
                 "14:00-18:00"
             ]
         }
@@ -6800,7 +6764,7 @@
                 "Fri"
             ],
             "Time": [
-                "12:00-14:00",
+                "11:30-14:00",
                 "10:00-14:00"
             ]
         }
@@ -6826,12 +6790,12 @@
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=247611VAx237965&cno=247-611-VA&cti=EmbeddedOperatingSystems",
             "More Info": "",
             "Day": [
-                "Mon",
-                "Wed"
+                "Wed",
+                "Fri"
             ],
             "Time": [
-                "12:00-14:00",
-                "8:00-12:00"
+                "8:00-12:00",
+                "8:00-10:00"
             ]
         },
         "00002": {
@@ -6841,11 +6805,11 @@
             "More Info": "",
             "Day": [
                 "Mon",
-                "Tue"
+                "Fri"
             ],
             "Time": [
-                "12:00-14:00",
-                "8:00-13:00"
+                "8:00-12:00",
+                "8:00-10:00"
             ]
         }
     },
@@ -6978,7 +6942,7 @@
         },
         "00010": {
             "Title": "Research Methods",
-            "Teacher": "TBA 401, Teacher 1",
+            "Teacher": "Purdy, Kelly Theresa",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300300VAx117467&cno=300-300-VA&cti=ResearchMethods",
             "More Info": "",
             "Day": [
@@ -6992,7 +6956,7 @@
         },
         "00011": {
             "Title": "Research Methods",
-            "Teacher": "TBA 401, Teacher 1",
+            "Teacher": "Fletcher, Jennifer",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300300VAx117467&cno=300-300-VA&cti=ResearchMethods",
             "More Info": "",
             "Day": [
@@ -7203,9 +7167,9 @@
             ]
         },
         "00015": {
-            "Title": "Music and People",
-            "Teacher": "Purdy, Kelly Theresa",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAg601&cno=300-301-VA&cti=MusicandPeople",
+            "Title": "Relationships",
+            "Teacher": "Lummack, Marta",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=300301VAg604&cno=300-301-VA&cti=Relationships",
             "More Info": "",
             "Day": [
                 "Tue",
@@ -7342,6 +7306,20 @@
             "Time": [
                 "16:00-18:00",
                 "16:00-18:00"
+            ]
+        }
+    },
+    "305-HTA-03": {
+        "00001": {
+            "Title": "Alternatives for Women",
+            "Teacher": "Kathwaroon, Marguerite",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=305HTA03x118203&cno=305-HTA-03&cti=AlternativesforWomen",
+            "More Info": "",
+            "Day": [
+                "Fri"
+            ],
+            "Time": [
+                "13:00-16:00"
             ]
         }
     },
@@ -9952,7 +9930,7 @@
         },
         "00012": {
             "Title": "Introduction to Psychology",
-            "Teacher": "Lummack, Marta",
+            "Teacher": "Millelire, Lisa Olga",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350102VAx123818&cno=350-102-VA&cti=IntroductiontoPsychology",
             "More Info": "",
             "Day": [
@@ -10050,20 +10028,6 @@
             "Time": [
                 "14:30-16:00",
                 "13:30-15:00"
-            ]
-        },
-        "00002": {
-            "Title": "Sexuality and Relationships",
-            "Teacher": "Millelire, Lisa Olga",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350203VAx123991&cno=350-203-VA&cti=SexualityandRelationships",
-            "More Info": "",
-            "Day": [
-                "Tue",
-                "Fri"
-            ],
-            "Time": [
-                "13:00-14:30",
-                "11:30-13:00"
             ]
         },
         "00003": {
@@ -10666,7 +10630,7 @@
         },
         "00012": {
             "Title": "Introduction to Psychology",
-            "Teacher": "Lummack, Marta",
+            "Teacher": "Millelire, Lisa Olga",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350HSA03x124906&cno=350-HSA-03&cti=IntroductiontoPsychology",
             "More Info": "",
             "Day": [
@@ -10750,20 +10714,6 @@
             "Time": [
                 "14:30-16:00",
                 "13:30-15:00"
-            ]
-        },
-        "00002": {
-            "Title": "Sexuality and Relationships",
-            "Teacher": "Millelire, Lisa Olga",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=350HTC03x124911&cno=350-HTC-03&cti=SexualityandRelationships",
-            "More Info": "",
-            "Day": [
-                "Tue",
-                "Fri"
-            ],
-            "Time": [
-                "13:00-14:30",
-                "11:30-13:00"
             ]
         },
         "00003": {
@@ -13204,7 +13154,7 @@
         },
         "00006": {
             "Title": "Individual and Society",
-            "Teacher": "Fletcher, Jennifer",
+            "Teacher": "Grabowiecki, Marie-Sophia",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=387100VAx129181&cno=387-100-VA&cti=IndividualandSociety",
             "More Info": "",
             "Day": [
@@ -13376,22 +13326,6 @@
             "Time": [
                 "14:30-16:00",
                 "14:30-16:00"
-            ]
-        }
-    },
-    "387-208-VA": {
-        "00001": {
-            "Title": "Sociology of Youth Culture",
-            "Teacher": "Grabowiecki, Marie-Sophia",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=387208VAx206940&cno=387-208-VA&cti=SociologyofYouthCulture",
-            "More Info": "",
-            "Day": [
-                "Wed",
-                "Fri"
-            ],
-            "Time": [
-                "8:30-10:00",
-                "10:00-11:30"
             ]
         }
     },
@@ -13646,7 +13580,7 @@
         },
         "00006": {
             "Title": "Individual and Society",
-            "Teacher": "Fletcher, Jennifer",
+            "Teacher": "Grabowiecki, Marie-Sophia",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=387HSA03x129831&cno=387-HSA-03&cti=IndividualandSociety",
             "More Info": "",
             "Day": [
@@ -13698,22 +13632,6 @@
             ],
             "Time": [
                 "13:00-16:00"
-            ]
-        }
-    },
-    "387-HTB-VA": {
-        "00001": {
-            "Title": "Sociology of Youth Culture",
-            "Teacher": "Grabowiecki, Marie-Sophia",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=387HTBVAx206860&cno=387-HTB-VA&cti=SociologyofYouthCulture",
-            "More Info": "",
-            "Day": [
-                "Wed",
-                "Fri"
-            ],
-            "Time": [
-                "8:30-10:00",
-                "10:00-11:30"
             ]
         }
     },
@@ -13972,7 +13890,7 @@
     "401-202-VA": {
         "00001": {
             "Title": "Marketing for Entrepreneurs",
-            "Teacher": "TBA 401, Teacher 1",
+            "Teacher": "Castro, Jaime Enrique",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401202VAx213127&cno=401-202-VA&cti=MarketingforEntrepreneurs",
             "More Info": "",
             "Day": [
@@ -14286,7 +14204,7 @@
     "401-HTE-VA": {
         "00001": {
             "Title": "Marketing for Entrepreneurs",
-            "Teacher": "TBA 401, Teacher 1",
+            "Teacher": "Castro, Jaime Enrique",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=401HTEVAx212901&cno=401-HTE-VA&cti=MarketingforEntrepreneurs",
             "More Info": "",
             "Day": [
@@ -14700,7 +14618,7 @@
                 "Thu"
             ],
             "Time": [
-                "14:00-16:00",
+                "12:00-14:00",
                 "10:00-12:00"
             ]
         },
@@ -15116,15 +15034,19 @@
         },
         "00002": {
             "Title": "Project Management",
-            "Teacher": "TBA 401, Teacher 1",
+            "Teacher": "Boezio, Alessandra Tanya",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=410631VAx135293&cno=410-631-VA&cti=ProjectManagement",
             "More Info": "",
             "Day": [
                 "Wed",
+                "Wed",
+                "Fri",
                 "Fri"
             ],
             "Time": [
                 "8:00-10:00",
+                "8:00-10:00",
+                "10:00-12:00",
                 "10:00-12:00"
             ]
         }
@@ -16300,7 +16222,7 @@
     "420-600-VA": {
         "00001": {
             "Title": "Program Modifications",
-            "Teacher": "El Khawand, Charbel",
+            "Teacher": "Rabah, Sleiman",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420600VAx146269&cno=420-600-VA&cti=ProgramModifications",
             "More Info": "",
             "Day": [
@@ -16314,7 +16236,7 @@
         },
         "00002": {
             "Title": "Program Modifications",
-            "Teacher": "El Khawand, Charbel",
+            "Teacher": "Rabah, Sleiman",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=420600VAx146269&cno=420-600-VA&cti=ProgramModifications",
             "More Info": "",
             "Day": [
@@ -18437,7 +18359,7 @@
                 "Fri"
             ],
             "Time": [
-                "12:00-13:00"
+                "15:00-16:00"
             ]
         }
     },
@@ -18601,7 +18523,7 @@
                 "Fri"
             ],
             "Time": [
-                "15:00-16:00"
+                "12:00-13:00"
             ]
         }
     },
@@ -19068,18 +18990,6 @@
         }
     },
     "551-SE4-VA": {
-        "00001": {
-            "Title": "Small Ensemble IV",
-            "Teacher": "Watts, David",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=551SE4VAx236433&cno=551-SE4-VA&cti=SmallEnsembleIV",
-            "More Info": "",
-            "Day": [
-                "Tue"
-            ],
-            "Time": [
-                "13:00-14:00"
-            ]
-        },
         "00002": {
             "Title": "Small Ensemble IV",
             "Teacher": "Di Tomaso, Nicolino",
@@ -19200,18 +19110,6 @@
             ],
             "Time": [
                 "14:30-15:30"
-            ]
-        },
-        "00004": {
-            "Title": "Small Ensemble V",
-            "Teacher": "Labelle, Jacques",
-            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=551SE5VAx236434&cno=551-SE5-VA&cti=SmallEnsembleV",
-            "More Info": "",
-            "Day": [
-                "Fri"
-            ],
-            "Time": [
-                "15:00-16:00"
             ]
         },
         "00005": {
@@ -20105,10 +20003,14 @@
             "More Info": "",
             "Day": [
                 "Mon",
+                "Mon",
+                "Thu",
                 "Thu"
             ],
             "Time": [
                 "12:00-14:00",
+                "12:00-14:00",
+                "10:00-12:00",
                 "10:00-12:00"
             ]
         },
@@ -20119,16 +20021,20 @@
             "More Info": "",
             "Day": [
                 "Tue",
+                "Tue",
+                "Thu",
                 "Thu"
             ],
             "Time": [
+                "14:00-16:00",
+                "14:00-16:00",
                 "14:00-16:00",
                 "14:00-16:00"
             ]
         },
         "00003": {
             "Title": "Communication d'affaires",
-            "Teacher": "Dery-Obin, Tanya",
+            "Teacher": "L'Allier, Anne",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602672VAg1704&cno=602-672-VA&cti=Communicationd'affaires",
             "More Info": "",
             "Day": [
@@ -20346,13 +20252,15 @@
     "602-HSG-VA": {
         "00001": {
             "Title": "Autopsie du capitalisme",
-            "Teacher": "Rizk, Sanaa",
+            "Teacher": "Gratton, Marie-H\u00e9l\u00e8ne",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSGVAg1700&cno=602-HSG-VA&cti=Autopsieducapitalisme",
             "More Info": "",
             "Day": [
+                "Mon",
                 "Mon"
             ],
             "Time": [
+                "14:30-17:30",
                 "14:30-17:30"
             ]
         }
@@ -20386,7 +20294,7 @@
         },
         "00003": {
             "Title": "Le voyage sans limites",
-            "Teacher": "Dery-Obin, Tanya",
+            "Teacher": "Brodeur, Andr\u00e9anne",
             "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSKVAg1772&cno=602-HSK-VA&cti=Levoyagesanslimites",
             "More Info": "",
             "Day": [
@@ -20505,9 +20413,9 @@
             ]
         },
         "00004": {
-            "Title": "R\u00e9flexions sur les arts et les sciences humaines",
+            "Title": "L'artiste citoyen",
             "Teacher": "L'Allier, Anne",
-            "Course Info": "",
+            "Course Info": "http://www.vaniercollege.qc.ca/online-schedule/showcdes5.asp?cid=602HSMVAg2490&cno=602-HSM-VA&cti=L'artistecitoyen",
             "More Info": "",
             "Day": [
                 "Thu"
