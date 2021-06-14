@@ -10,7 +10,7 @@ String.prototype.repeat = function(times) {
 
 $( document ).ready(function() {
     $.ajaxSetup({ cache: false });
-    $.getJSON('allcourses.json', function(data) {
+    $.getJSON('allcourses.json?nocache=' + (new Date()).getTime(), function(data) {
         courseDict = data;
 
         let oneFail = false;
